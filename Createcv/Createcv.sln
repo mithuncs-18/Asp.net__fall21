@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Createcv", "Createcv\Createcv.csproj", "{E6730560-144C-475D-BF51-09AB78CB7FF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6730560-144C-475D-BF51-09AB78CB7FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6730560-144C-475D-BF51-09AB78CB7FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6730560-144C-475D-BF51-09AB78CB7FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6730560-144C-475D-BF51-09AB78CB7FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69A4A212-7B50-4608-A512-5DE808F1A316}
+	EndGlobalSection
+EndGlobal
